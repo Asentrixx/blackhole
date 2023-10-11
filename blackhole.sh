@@ -11,6 +11,7 @@ declare -A URLS=(
 ["BlixSolutions"]="https://asn.ipinfo.app/api/text/ipblackhole/AS50304"
 ["Hetzner"]="https://asn.ipinfo.app/api/text/ipblackhole/AS24940"
 ["KeliWeb SRL"]="https://asn.ipinfo.app/api/text/ipblackhole/AS202675"
+["Amazon"]="https://asn.ipinfo.app/api/text/ipblackhole/AS16509"
 )
 
 # Loop through array
