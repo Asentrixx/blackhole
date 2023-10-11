@@ -23,5 +23,5 @@ do
         echo ${LINE}
         sudo ${LINE}
     done
-    echo $"Blackhole for ${NAME} is completed."
+    echo $"Blackhole for ${NAME} removed."
 done
