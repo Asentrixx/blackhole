@@ -8,7 +8,7 @@ declare -A URLS=(
 ["Sophos"]="https://asn.ipinfo.app/api/text/ipblackholerem/AS58976"
 ["Sophos"]="https://asn.ipinfo.app/api/text/ipblackholerem/AS399342"
 ["DigitalOcean"]="https://asn.ipinfo.app/api/text/ipblackholerem/AS14061"
-["BlixSolutions"]="https://asn.ipinfo.app/api/text/ipblackhole/AS50304"
+["BlixSolutions"]="https://asn.ipinfo.app/api/text/ipblackholerem/AS50304"
 ["Hetzner"]="https://asn.ipinfo.app/api/text/ipblackholerem/AS24940"
 ["KeliWeb SRL"]="https://asn.ipinfo.app/api/text/ipblackholerem/AS202675"
 )
