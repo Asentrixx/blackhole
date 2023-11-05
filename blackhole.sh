@@ -19,6 +19,11 @@ declare -A URLS=(
 ["Avira"]="https://asn.ipinfo.app/api/text/ipblackhole/AS203507"
 ["WebRoot"]="https://asn.ipinfo.app/api/text/ipblackhole/AS26250"
 ["WebRoot"]="https://asn.ipinfo.app/api/text/ipblackhole/AS33737"
+["StrongTechnology"]="https://asn.ipinfo.app/api/text/ipblackhole/AS140952"
+["M247"]="https://asn.ipinfo.app/api/text/ipblackhole/AS9009"
+["StrongTechnology"]="https://asn.ipinfo.app/api/text/ipblackhole/AS207990"
+["QUADRANET"]="https://asn.ipinfo.app/api/text/ipblackhole/AS8100"
+["IPVolumeInc"]="https://asn.ipinfo.app/api/text/ipblackhole/AS202425"
 )
 
 # Loop through array
