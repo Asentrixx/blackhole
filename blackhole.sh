@@ -12,6 +12,13 @@ declare -A URLS=(
 ["Hetzner"]="https://asn.ipinfo.app/api/text/ipblackhole/AS24940"
 ["KeliWeb SRL"]="https://asn.ipinfo.app/api/text/ipblackhole/AS202675"
 ["Amazon"]="https://asn.ipinfo.app/api/text/ipblackhole/AS16509"
+["DataCamp Limited"]="https://asn.ipinfo.app/api/text/ipblackhole/AS212238"
+["Fortinet"]="https://asn.ipinfo.app/api/text/ipblackhole/AS25885"
+["Fortinet"]="https://asn.ipinfo.app/api/text/ipblackhole/AS40934"
+["Fortinet"]="https://asn.ipinfo.app/api/text/ipblackhole/AS200589"
+["Avira"]="https://asn.ipinfo.app/api/text/ipblackhole/AS203507"
+["WebRoot"]="https://asn.ipinfo.app/api/text/ipblackhole/AS26250"
+["WebRoot"]="https://asn.ipinfo.app/api/text/ipblackhole/AS33737"
 )
 
 # Loop through array
