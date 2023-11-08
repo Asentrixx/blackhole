@@ -24,6 +24,7 @@ declare -A URLS=(
 ["StrongTechnology"]="https://asn.ipinfo.app/api/text/ipblackholerem/AS207990"
 ["QUADRANET"]="https://asn.ipinfo.app/api/text/ipblackholerem/AS8100"
 ["IPVolumeInc"]="https://asn.ipinfo.app/api/text/ipblackholerem/AS202425"
+["Netcraft"]="https://asn.ipinfo.app/api/text/ipblackholerem/AS212329"
 )
 
 # Loop through array
