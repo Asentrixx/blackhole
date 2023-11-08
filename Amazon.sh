@@ -2,7 +2,7 @@
 
 # Associative array of URLs
 declare -A URLS=(
-["Amazon"]="https://asn.ipinfo.app/api/text/ipblackhole/AS16509"
+["Amazon"]="https://asn.ipinfo.app/api/text/ipblackholerem/AS16509"
 )
 
 # Loop through array
